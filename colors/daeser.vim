@@ -48,7 +48,7 @@ highlight Statement guifg=#af875f guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE c
 highlight Constant guifg=#d78700 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 highlight Type guifg=#d2bd97 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 highlight String guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
-highlight Special guifg=#d08888 guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
+highlight Special guifg=#d08888 guibg=NONE gui=NONE ctermfg=203 ctermbg=NONE cterm=NONE
 highlight Conditional guifg=#d08888 guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Operator guifg=#949494 guibg=NONE gui=NONE ctermfg=246 ctermbg=NONE cterm=NONE
 highlight Title guifg=#d7875f guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cterm=NONE
