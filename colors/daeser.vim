@@ -49,7 +49,7 @@ highlight Constant guifg=#d78700 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE ct
 highlight Type guifg=#d2bd97 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 highlight String guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
 highlight Special guifg=#d08888 guibg=NONE gui=NONE ctermfg=203 ctermbg=NONE cterm=NONE
-highlight Conditional guifg=#d08888 guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
+highlight Conditional guifg=#d08888 guibg=NONE gui=NONE ctermfg=203 ctermbg=NONE cterm=NONE
 highlight Operator guifg=#949494 guibg=NONE gui=NONE ctermfg=246 ctermbg=NONE cterm=NONE
 highlight Title guifg=#d7875f guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cterm=NONE
 highlight StorageClass guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
@@ -106,7 +106,7 @@ highlight Error guifg=#d75f5f guibg=#121212 gui=reverse ctermfg=167 ctermbg=233 
 highlight ErrorMsg guifg=#d75f5f guibg=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 highlight WarningMsg guifg=#ff875f guibg=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
 highlight netrwExe guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
-highlight netrwlist guifg=#d08888 guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
+highlight netrwlist guifg=#d08888 guibg=NONE gui=NONE ctermfg=203 ctermbg=NONE cterm=NONE
 highlight Directory guifg=#af875f guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight Cursor guifg=#000000 guibg=#ffffff gui=NONE ctermfg=16 ctermbg=231 cterm=NONE
 highlight CursorLineNr guifg=#c6c6c6 guibg=NONE gui=reverse ctermfg=251 ctermbg=NONE cterm=reverse
